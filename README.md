@@ -25,14 +25,14 @@ pip install -r requirements.txt
 
 1. **Abra o VS Code**.
 2. **Abra o diretório do projeto** no VS Code.
-3. **Navegue até o arquivo do notebook** (`analise_alugueis_nova_york.ipynb`) no explorador do VS Code e clique para abrir.
+3. **Navegue até o arquivo do notebook** (`LH_CD_FelipeHenriqueVerones.ipynb`) no explorador do VS Code e clique para abrir.
 4. **Execute as células do notebook em ordem** usando a interface do VS Code para Jupyter.
 
 ## Estrutura do Projeto
 
 - `[Lighthouse] Desafio Ciência de Dados 2024-4.docx`: Descrição do desafio.
 - `requirements.txt`: Dependências python necessárias para executar o projeto.
-- `analise_alugueis_nova_york.ipynb`: Jupyter Notebook com a análise e o modelo.
+- `LH_CD_FelipeHenriqueVerones.ipynb`: Jupyter Notebook com a análise e o modelo.
 - `modelo_random_forest.pkl`: Modelo de machine learning salvo.
 - `teste_indicium_precificacao.csv`: Dados de teste.
 
